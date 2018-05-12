@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6831
     wikipedia: http://es.wikipedia.org/wiki/Julio_Cejador_y_Frauca
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16625#Cl-sicos-Castellanos--Libro-de-Buen-Amor
 gutenberg_issued: '2005-08-30'
 gutenberg_type: Text
 identifiers:
