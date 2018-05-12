@@ -1,0 +1,43 @@
+_repo: Cl-sicos-Castellanos--Libro-de-Buen-Amor_16625
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruiz, Juan
+    aliases:
+    - Hita, Juan Ruiz, Arcipreste de
+    - Cisneros, Juan Ruiz de
+    - Hita, Arcipreste de
+    birthdate: 1282
+    deathdate: 1349
+    gutenberg_agent_id: '6830'
+    url: http://www.gutenberg.org/2009/agents/6830
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Arcipreste_de_Hita
+    - http://en.wikipedia.org/wiki/Juan_Ruiz
+  editor:
+    agent_name: Cejador y Frauca, Julio
+    aliases:
+    - Frauca, Julio Cejador y
+    - Cejador, Julio
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '6831'
+    url: http://www.gutenberg.org/2009/agents/6831
+    wikipedia: http://es.wikipedia.org/wiki/Julio_Cejador_y_Frauca
+description: ''
+gutenberg_issued: '2005-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16625'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish poetry -- To 1500'
+title: 'Clásicos Castellanos: Libro de Buen Amor'
+url: http://www.gutenberg.org/ebooks/16625
